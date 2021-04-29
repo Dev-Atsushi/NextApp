@@ -1,5 +1,5 @@
 import '../sassGlobal/globals.scss';
-import '../cssGlobal/normalize.css'
+import '../cssGlobal/normalize.css';
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
